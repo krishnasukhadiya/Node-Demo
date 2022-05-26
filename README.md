@@ -1,7 +1,7 @@
 # TEST PROJECT 
  TEST PRACTICAL
 
- This project id for practicle test using nodejs express APIs,
+ This project is for practicle test using nodejs express APIs,
  with typescript mysql
 
  # Setupda the database and the table for that import the database using script
