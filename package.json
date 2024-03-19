@@ -1,5 +1,5 @@
 {
-  "name": "tatva-test",
+  "name": "node-demo",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/krishnasukhadiya/tatva-test.git"
+    "url": "git+https://github.com/krishnasukhadiya/Node-Demo.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/krishnasukhadiya/tatva-test/issues"
+    "url": "https://github.com/krishnasukhadiya/Node-Demo/issues"
   },
-  "homepage": "https://github.com/krishnasukhadiya/tatva-test#readme",
+  "homepage": "https://github.com/krishnasukhadiya/Node-Demo#readme",
   "dependencies": {
     "@types/node": "^17.0.35",
     "crypto": "^1.0.1",
