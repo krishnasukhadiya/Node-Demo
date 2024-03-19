@@ -4,7 +4,7 @@
  This is demo project using nodejs express APIs,
  with typescript mysql
 
- # Setupda the database and the table for that import the database using script
+ # Setup the database and the table for that import the database using script
  `databse.sql`
 
  Install all packages used in project
