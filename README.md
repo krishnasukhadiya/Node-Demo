@@ -1,11 +1,11 @@
-# TEST PROJECT 
- TEST PRACTICAL
+# DEMO PROJECT 
+ DEMO PRACTICAL
 
- This project is for practicle test using nodejs express APIs,
+ This is demo project using nodejs express APIs,
  with typescript mysql
 
  # Setupda the database and the table for that import the database using script
- `tatva.sql`
+ `databse.sql`
 
  Install all packages used in project
  `$ npm install`
